@@ -9,6 +9,7 @@
 문자열 다루기 기본_python  
 짝수와 홀수_python  
 자릿수더하기_python  
+같은 숫자는 싫어_python
 
 
 ## Level 2
