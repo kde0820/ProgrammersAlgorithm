@@ -10,7 +10,8 @@
 짝수와 홀수_python  
 자릿수더하기_python  
 같은 숫자는 싫어_python  
-문자열 내 마음대로 정렬하기_python
+문자열 내 마음대로 정렬하기_python  
+정수제곱근판별하기_python
 
 
 ## Level 2
