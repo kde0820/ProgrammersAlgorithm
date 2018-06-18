@@ -1,5 +1,4 @@
-def caesar(s, n):
-    # 주어진 문장을 암호화하여 반환하세요.
+def solution(s, n):
     char_list = list(s)
     for i in range(len(char_list)):
         char = char_list[i]
@@ -17,6 +16,3 @@ def caesar(s, n):
                 asc = asc % 26
             char_list[i] = chr(asc + 65)      
     return "".join(char_list)
-    
-# 실행을 위한 테스트코드입니다.
-print('s는 "a B z", n은 4인 경우: ' + caesar("a B z", 4))
